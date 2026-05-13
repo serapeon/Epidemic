@@ -18,9 +18,9 @@ It builds a graph from `routes.txt`, starts with one infected location (`JFK`), 
 From this folder:
 
 ```bash
-javac -cp .. Epidemic.java
-java -cp ..:. Epidemic
+javac utils/*.java Epidemic.java
+java Epidemic
 ```
 
 ## License
-This project is licensed under the [GNU General Public License v3.0 (GPLv3)](../LICENSE).
+This project is licensed under the [GNU General Public License v3.0 (GPLv3)](LICENSE).
