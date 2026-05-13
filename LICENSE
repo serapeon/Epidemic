@@ -1,0 +1,14 @@
+GNU General Public License v3.0 (GPLv3)
+
+The Java code in this folder depends on classes from the Algs4 library
+(Robert Sedgewick and Kevin Wayne, Princeton University), which is distributed
+under GPLv3.
+
+Accordingly, this Java folder is distributed under the GNU General Public
+License, version 3.
+
+Full license text:
+https://www.gnu.org/licenses/gpl-3.0.txt
+
+Algs4 license reference:
+https://algs4.cs.princeton.edu/faq/
